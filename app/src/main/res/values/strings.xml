@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyConnectionManager</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_reload">Reload</string>
+    <string name="deviceInfo">Device INFO</string>
+    <string name="textSIMName">SIM 1</string>
+    <string name="textINFOs">INFOs</string>
+    <string name="checkGSMUMTS">GSM/UMTS</string>
+    <string name="checkLTE">LTE</string>
+</resources>
